@@ -1,0 +1,12 @@
+ .wrap{
+       	width: 400px;
+       	height: 400px;
+       	background: red;
+       	position: relative;
+       }
+       button{
+       	position: absolute;
+       	  margin-left: 50%;
+       	  margin-top: 50%;
+          
+       }
